@@ -5,4 +5,4 @@ for nombre in ["RM", "Jin", "Suga", "J-Hope", "Jimin", "V", "Jungkook"]:
 
 print(bts_integrantes)
 
-print("hola")
+print("gracias jajaj")
